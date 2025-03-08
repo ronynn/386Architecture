@@ -1,9 +1,9 @@
-base_url = "https://zola386.netlify.app"
+base_url = "https://ronynn.github.io"
 # theme = "zola.386"
 
 default_language = "en"
-title = "ZOLA.386"
-description = "A port of the BOOTSTRA.386 theme."
+title = "386Architecture"
+description = "A port of the BOOTSTRA.386."
 
 highlight_code = true
 compile_sass = true
@@ -17,10 +17,10 @@ taxonomies = [
 
 
 [extra]
-author = "José Lopes"
-year = "2020"
+author = "ronynn"
+year = "2025"
 
-keywords = "zola, theme, retro, hacking"
+keywords = "zola, theme, retro"
 theme_color = "#000084"
 zola386_menu = [
   {path="", name="Home"},
@@ -34,10 +34,10 @@ zola386_menu = [
 # disqus = "disqus-user"
 
 ### SOCIAL MEDIA
-image = "https://raw.githubusercontent.com/lopes/zola.386/master/screenshot.png"
-twitter_user = "lopesoj"
-linkedin_user = "jlopesjr"
-github_user = "lopes"
+image = "https://raw.githubusercontent.com/ronynn/386Architecture/master/screenshot.png"
+# twitter_user = ""
+# linkedin_user = ""
+github_user = "ronynn"
 # gitlab_user = ""
 
 ### I18N WORDS
